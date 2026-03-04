@@ -6,7 +6,7 @@ project: Alin Password - Absolute Batman
   discord:      "Brrrr"     # Brrrr
   description:  "Password for letter A"     # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
+  clock_hz:     10000       # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
@@ -26,11 +26,11 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "OUTPUT AND"
   uo[1]: "OUTPUT AND"
   uo[2]: "OUTPUT AND"
   uo[3]: ""
-  uo[4]: ""
+  uo[4]: "OUTPUT AND"
   uo[5]: "OUTPUT AND"
   uo[6]: "OUTPUT AND"
   uo[7]: ""
