@@ -17,22 +17,22 @@ project: "Alin Password A"
 pinout:
   # Inputs
   ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
+  ui[1]: "INPUT 1"
+  ui[2]: "INPUT 2"
   ui[3]: ""
   ui[4]: ""
-  ui[5]: ""
-  ui[6]: ""
+  ui[5]: "INPUT 5"
+  ui[6]: "INPUT 6"
   ui[7]: ""
 
   # Outputs
   uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
+  uo[1]: "OUTPUT AND"
+  uo[2]: "OUTPUT AND"
   uo[3]: ""
   uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[5]: "OUTPUT AND"
+  uo[6]: "OUTPUT AND"
   uo[7]: ""
 
   # Bidirectional pins
